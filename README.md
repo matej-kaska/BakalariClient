@@ -1,5 +1,6 @@
 # Bakaláři klient
 Bakaláři klient pro Windows. Verze 1.0.3
+Využita [dokumentace](https://github.com/bakalari-api/bakalari-api) k API Bakalářů.
 # Stahování
 Pro stáhnutí klikněte na Bakaláři setup.zip nad nadpisem a vpravo uprostřed stránky na Download.
 # Instalace
@@ -13,6 +14,10 @@ běžte do nastavení a nastavte si Váš klient.
 **Dokumentace již brzy!**
 # Našli jste chybu?
 Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
+# Co je dále v plánu?
+* Dokumentace ke klientovi
+* Notifikace na nové známky a úkoly
+* Možnost zadat odkaz na Bakaláře pomocí vybrání města a školy
 # Poznámky k aktualizacím
 # 1.0.4 (unreleased)
 * Přidáno přesměrování na nastavení odkazu při chybě odkazu
