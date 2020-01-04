@@ -14,7 +14,7 @@ běžte do nastavení a nastavte si Váš klient.
 
 **Dokumentace již brzy!**
 # Našli jste chybu?
-Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
+Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.com
 # Co je dále v plánu?
 * Dokumentace ke klientovi
 * Notifikace na nové známky a úkoly
@@ -22,8 +22,8 @@ Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
 * Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
 ## 1.0.5
-* Opravena výjimka při zavření nastavení
-* Opraveno tlačítko pro minimalizaci okna v nastavení
+* Opravena výjimka při zavření nastavení ([vitkolos](https://github.com/vitkolos))
+* Opraveno tlačítko pro minimalizaci okna v nastavení ([vitkolos](https://github.com/vitkolos))
 ## 1.0.4
 * Přidáno přesměrování na nastavení odkazu při chybě odkazu
 ## 1.0.3
