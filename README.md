@@ -19,6 +19,7 @@ Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
 * Dokumentace ke klientovi
 * Notifikace na nové známky a úkoly
 * Možnost zadat odkaz na Bakaláře pomocí vybrání města a školy
+* Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
 ## 1.0.4 (unreleased)
 * Přidáno přesměrování na nastavení odkazu při chybě odkazu
