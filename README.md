@@ -1,5 +1,5 @@
 # Bakaláři klient
-Bakaláři klient pro Windows. Verze 1.0.2
+Bakaláři klient pro Windows. Verze 1.0.3
 # Instalace
 Pro instalaci stáhněte Bakaláři setup.zip. Archiv rozbalte, spusťte setup.exe a nechte nainstalovat.
 
