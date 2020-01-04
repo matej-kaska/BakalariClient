@@ -22,6 +22,7 @@ Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.
 * Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
 ## 1.0.6 (unreleased)
+* Přidána automatická korekce odkazu na Bakaláře
 * Oprava známek pro zobrazení známky "D"
 ## 1.0.5
 * Opravena výjimka při zavření nastavení ([vitkolos](https://github.com/vitkolos))
