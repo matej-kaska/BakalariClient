@@ -9,6 +9,7 @@ Lite verze nepotřebuje instalaci. **POZOR!** Po aktualizaci se Vaše nastavení
 # Použití
 Pro všechny školy využívající systém Bakalářů. Po zapnutí klikněte na nastavení a vložte odkaz na Vaše Bakaláře. Po přihlášení
 běžte do nastavení a nastavte si Váš klient.
+
 **Dokumentace již brzy!**
 # Našli jste chybu?
 Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
