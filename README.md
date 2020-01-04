@@ -12,6 +12,8 @@ běžte do nastavení a nastavte si Váš klient.
 # Našli jste chybu?
 Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
 # Poznámky k aktualizacím
+# 1.0.4 (unreleased)
+* Přidáno přesměrování na nastavení odkazu při chybě odkazu
 # 1.0.3
 * Přidáno tlačítko pro zkontrolování aktualizací
 * Vylepšení UI pro známky
