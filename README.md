@@ -22,7 +22,8 @@ Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
 * Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
 ## 1.0.5
-* Opravena výjimka při zavření nastavení?
+* Opravena výjimka při zavření nastavení
+* Opraveno tlačítko pro minimalizaci okna v nastavení
 ## 1.0.4
 * Přidáno přesměrování na nastavení odkazu při chybě odkazu
 ## 1.0.3
