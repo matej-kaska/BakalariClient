@@ -20,20 +20,20 @@ Oznamte mi ji na můj osobní e-mail: nkaskaj@gmail.com
 * Notifikace na nové známky a úkoly
 * Možnost zadat odkaz na Bakaláře pomocí vybrání města a školy
 # Poznámky k aktualizacím
-# 1.0.4 (unreleased)
+###### 1.0.4 (unreleased)
 * Přidáno přesměrování na nastavení odkazu při chybě odkazu
-# 1.0.3
+###### 1.0.3
 * Přidáno tlačítko pro zkontrolování aktualizací
 * Vylepšení UI pro známky
 * Opraveno zobrazování známek
-# 1.0.2
+###### 1.0.2
 * Přídán Bakaláři setup.zip pro plnou instalaci
 * Přidána funcke automatické kontroly aktualizací
 * Přidané upozornění pro nesprávné fungování v jiném jazyce Windows než v češtině
 * Přidaný text v nastavení
 * Opravený tooltip na úkol v rozvrhu
 * Opraveno zobrazování úkolů
-# 1.0.1
+###### 1.0.1
 * Vylepšena stabilita programu
 * Opraveno zobrazování kalendáře
 
