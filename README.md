@@ -21,9 +21,9 @@ Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.
 * Možnost zadat odkaz na Bakaláře pomocí vybrání města a školy
 * Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
-## 1.0.6 (unreleased)
+## 1.0.6
 * Přidána automatická korekce odkazu na Bakaláře
-* Oprava známek pro zobrazení známky "D"
+* Oprava známek pro zobrazení známek "D" "U" a "O"
 ## 1.0.5
 * Opravena výjimka při zavření nastavení ([vitkolos](https://github.com/vitkolos))
 * Opraveno tlačítko pro minimalizaci okna v nastavení ([vitkolos](https://github.com/vitkolos))
