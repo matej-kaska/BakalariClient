@@ -1,5 +1,5 @@
 # Bakaláři klient
-Bakaláři klient pro Windows. Verze 1.0.5
+Bakaláři klient pro Windows. Verze 1.0.6
 
 Využita [dokumentace](https://github.com/bakalari-api/bakalari-api) k API Bakalářů.
 # Stahování
