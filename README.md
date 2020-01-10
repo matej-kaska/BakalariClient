@@ -23,7 +23,7 @@ Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.
 # Poznámky k aktualizacím
 ## 1.0.6
 * Přidána automatická korekce odkazu na Bakaláře
-* Oprava známek pro zobrazení známek "D" "U" a "O"
+* Oprava známek pro zobrazení známek "D", "U" a "O"
 ## 1.0.5
 * Opravena výjimka při zavření nastavení ([vitkolos](https://github.com/vitkolos))
 * Opraveno tlačítko pro minimalizaci okna v nastavení ([vitkolos](https://github.com/vitkolos))
