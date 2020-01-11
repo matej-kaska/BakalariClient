@@ -17,10 +17,12 @@ běžte do nastavení a nastavte si Váš klient.
 Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.com
 # Co je dále v plánu?
 * Dokumentace ke klientovi
-* Notifikace na nové známky a úkoly
-* Možnost zadat odkaz na Bakaláře pomocí vybrání města a školy
 * Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
+## 1.1.0 (unreleased) TESTING
+* Přidána funkce Vyhledat školu pomocí města
+* Přidána funkce oznámení nové známky
+* Přidána možnost běžení aplikace na pozadí pomocí tlačítka minimalizovat v menu
 ## 1.0.6
 * Přidána automatická korekce odkazu na Bakaláře
 * Oprava známek pro zobrazení známek "D", "U" a "O"
