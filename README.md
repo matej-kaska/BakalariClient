@@ -20,7 +20,7 @@ Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.
 * Nahrát Visual Studio Projekt
 # Poznámky k aktualizacím
 ## 1.1.0 (unreleased) TESTING
-* Přidána funkce Vyhledat školu pomocí města
+* Přidána funkce vyhledat školu pomocí města
 * Přidána funkce oznámení nové známky
 * Přidána možnost běžení aplikace na pozadí pomocí tlačítka minimalizovat v menu
 ## 1.0.6
