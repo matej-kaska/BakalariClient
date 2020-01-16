@@ -23,6 +23,7 @@ Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.
 * Přidána funkce vyhledat školu pomocí města
 * Přidána funkce oznámení nové známky
 * Přidána možnost běžení aplikace na pozadí pomocí tlačítka minimalizovat v menu
+* Přidána funkce zapnutí Bakaláří při startu Windows
 ## 1.0.6
 * Přidána automatická korekce odkazu na Bakaláře
 * Oprava známek pro zobrazení známek "D", "U" a "O"
