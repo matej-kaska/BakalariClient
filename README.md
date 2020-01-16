@@ -1,5 +1,5 @@
 # Bakaláři klient
-Bakaláři klient pro Windows. Verze 1.0.6
+Bakaláři klient pro Windows. Verze 1.1.0
 
 Využita [dokumentace](https://github.com/bakalari-api/bakalari-api) k API Bakalářů.
 # Stahování
@@ -17,9 +17,9 @@ běžte do nastavení a nastavte si Váš klient.
 Přidejte ji do Issues nebo mi oznamte ji na můj osobní e-mail: nkaskaj@gmail.com
 # Co je dále v plánu?
 * Dokumentace ke klientovi
-* Nahrát Visual Studio Projekt
+* Do Issues můžete napsat své doporučení na nové funkce
 # Poznámky k aktualizacím
-## 1.1.0 (unreleased) TESTING
+## 1.1.0
 * Přidána funkce vyhledat školu pomocí města
 * Přidána funkce oznámení nové známky
 * Přidána možnost běžení aplikace na pozadí pomocí tlačítka minimalizovat v menu
